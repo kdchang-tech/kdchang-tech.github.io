@@ -5,15 +5,13 @@ image: https://tech.kdchang.net/img/logo.png
 ---
 
 <div class="about-profile-banner">
-  <div class="about-avatar">KD</div>
+  <img class="about-avatar" src="/img/avatar.jpg" alt="KD Chang" />
   <div class="about-profile-info">
-    <h1 class="about-name">KD Chang <span class="about-name-zh">張凱迪</span></h1>
-    <p class="about-tagline">文藝型開發者，站在科技與人文的交叉口。<br/>Software Engineer · Product Manager · Educator</p>
+    <h1 class="about-name">KD Chang 張凱迪</h1>
+    <p class="about-tagline">文藝型開發者，站在科技與人文的交叉口<br/>Software Engineer · Product / Project Manager · Curator</p>
     <div class="about-badges">
-      <span class="about-badge">🌐 Full-Stack</span>
-      <span class="about-badge">🤖 AI / Data</span>
-      <span class="about-badge">📦 Product</span>
-      <span class="about-badge">🎓 Educator</span>
+      <span class="about-badge">Full-Stack</span>
+      <span class="about-badge">AI / Data</span>
     </div>
   </div>
 </div>

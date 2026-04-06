@@ -456,15 +456,9 @@ code {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #0891b2, #06b6d4);
-  color: #fff;
-  font-size: 1.5rem;
-  font-weight: 800;
-  letter-spacing: -0.02em;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  object-fit: cover;
   box-shadow: 0 4px 16px rgba(8, 145, 178, 0.35);
+  border: 3px solid var(--ifm-color-primary-light);
 }
 
 .about-profile-info {

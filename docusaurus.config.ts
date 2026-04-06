@@ -5,9 +5,9 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "KD Builder Labs 產品打造實驗室",
+  title: "KD Tech Blog 技術部落格",
   tagline:
-    "分享用 Builder 思維打造人們想用的產品。保持專注，整合 AI 工作流，持續迭代與改進",
+    "從資深工程師到技術主管，分享軟體工程第一線開發、產品專案管理和技術領導心路歷程",
   favicon: "/img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -16,7 +16,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://labs.kdchang.net",
+  url: "https://tech.kdchang.net",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -25,7 +25,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "kdchang-labs", // Usually your GitHub org/user name.
-  projectName: "kdchang-labs.github.io", // repo
+  projectName: "kdchang-tech.github.io", // repo
   onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
@@ -45,7 +45,7 @@ const config: Config = {
         },
         docs: {
           sidebarPath: "./sidebars.ts",
-          routeBasePath: "/projects",
+          routeBasePath: "/resources",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: undefined,
@@ -83,14 +83,14 @@ const config: Config = {
         // highlight term
         highlightSearchTermsOnTargetPage: true,
         // docs route base path
-        docsRouteBasePath: "/projects",
+        docsRouteBasePath: "/resources",
         blogRouteBasePath: "/blog",
       },
     ],
   ],
   themeConfig: {
     // Replace with your project's social card
-    image: "https://labs.kdchang.net/img/logo.png",
+    image: "https://tech.kdchang.net/img/logo.png",
     // colorMode: {
     //   respectPrefersColorScheme: true,
     // },
@@ -107,9 +107,9 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: "KD Builder Labs",
+      title: "KD Tech Blog",
       // logo: {
-      //   alt: "KD Builder Labs Logo",
+      //   alt: "KD Tech Blog Logo",
       //   src: "img/logo.png",
       // },
       items: [
@@ -118,7 +118,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "resourceSidebar",
           position: "left",
-          label: "產品專案",
+          label: "學習資源",
         },
         { to: "/about", label: "關於本站", position: "left" },
 
@@ -142,8 +142,8 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "產品專案",
-              to: "/projects",
+              label: "學習資源",
+              to: "/resources",
             },
             {
               label: "熱門文章",
@@ -160,7 +160,7 @@ const config: Config = {
             },
             {
               label: "Follow us on Facebook",
-              href: "https://www.facebook.com/labs.kdchang.net",
+              href: "https://www.facebook.com/tech.kdchang.net",
             },
             {
               label: "Follow us on Instagram",
@@ -178,7 +178,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} KD Builder Labs. Built with ❤️ in Taiwan.`,
+      copyright: `Copyright © ${new Date().getFullYear()} KD Builder tech. Built with ❤️ in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,

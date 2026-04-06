@@ -1,8 +1,8 @@
 👇 網頁好讀版：
-https://labs.kdchang.net
+https://tech.kdchang.net
 👋 追蹤、按讚、訂閱加分享，獲得更多職涯發展與個人成長產品專案和重點精華 💪
 《kdchang 職涯書籤》 🔖 
-FB：https://www.facebook.com/labs.kdchang.net
+FB：https://www.facebook.com/tech.kdchang.net
 IG：https://www.instagram.com/kdchang_net
 電子報：https://kdchang.substack.com/
 

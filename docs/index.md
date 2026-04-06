@@ -1,12 +1,12 @@
 ---
 slug: /
-title: 產品專案
+title: 學習資源
 sidebar_position: 1
 ---
 
-# 產品專案
+# 學習資源
 
-歡迎來到 **KD Builder Labs 產品打造實驗室**：分享 AI 時代軟體工程師產品和工具開發心得分享 🚀
+歡迎來到 **KD Tech Blog 技術部落格**：分享 AI 時代軟體工程師產品和工具開發心得分享 🚀
 
 
 

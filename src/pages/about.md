@@ -1,12 +1,8 @@
 ---
-title: KD Builder Labs 產品打造實驗室 | KD Chang 張凱迪
-description: KD Builder Labs 產品打造實驗室：分享用 Builder 思維打造人們想用的產品。保持專注，整合 AI 工作流，持續迭代與改進！｜ Hi, 我是 KD Chang 張凱迪，我在這書寫我的軟體開發、程式設計和產品專案管理技術筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對軟體工程、Web 前後端程式設計、網頁開發、程式設計、產品專案管理、職涯發展和軟體開發的閱讀思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！
-image: https://labs.kdchang.net/img/logo.png
+title: KD Tech Blog 產品打造實驗室 | KD Chang 張凱迪
+description: KD Tech Blog 產品打造實驗室：分享用 Builder 思維打造人們想用的產品。保持專注，整合 AI 工作流，持續迭代與改進！｜ Hi, 我是 KD Chang 張凱迪，我在這書寫我的軟體開發、程式設計和產品專案管理技術筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對軟體工程、Web 前後端程式設計、網頁開發、程式設計、產品專案管理、職涯發展和軟體開發的閱讀思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！
+image: https://tech.kdchang.net/img/logo.png
 ---
-
-```
-KD Builder Labs 產品打造實驗室：分享用 Builder 思維打造人們想用的產品。保持專注，整合 AI 工作流，持續迭代與改進！｜ Hi, 我是 KD Chang 張凱迪，我在這書寫我的軟體開發、程式設計和產品專案管理技術筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對軟體工程、Web 前後端程式設計、網頁開發、程式設計、產品專案管理、職涯發展和軟體開發的閱讀思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！
-```
 
 # 關於站長
 KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。是一個軟體工程師，也是一位 PM 產品專案經理和教育工作者。曾服務過上市科技電子公司、台灣 AI 人工智慧新創獨角獸公司、全球前三大瀏覽器製造商與電子商務平台，也曾參與數個新創組織的創辦和嘗試過多個網路產品服務的開發。同時也是 [CoderBridge 開發者技術內容創作分享與職涯發展平台](https://www.facebook.com/CoderBridgeTW) 創辦人、[TechBridge Weekly 技術週刊](http://weekly.techbridge.cc/) 、React 入門教學書[《從零開始學 ReactJS》](https://www.gitbook.com/book/kdchang/react101/details)作者和 [HackNTU 臺大黑客松](https://github.com/HackNTU) 的創辦人。同時具備電腦科學與社會科學的背景知識，致力於整合科技與人文，讓這個世界更加開放美好。
@@ -27,8 +23,9 @@ KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。�
 - 國立台中一中（TCFSH）
 
 **Experience 經歷**
-- 鴻海科技集團：FOXTRON 鴻華先進資深軟體工程師（Senior Software Engineer）
-- 一零四資訊科技（104.com.tw）技術專案經理 TPM & Scrum Master
+- FOXTRON 鴻華先進車聯網架構組技術主管（Engineering Team Lead）
+- 鴻海科技集團資深軟體工程師（Senior Software Engineer）
+- 一零四資訊科技（104.com.tw）技術專案經理（Technical Project Manager, TPM）
 - MOXIATEK 墨俠科技軟體工程師 & 產品負責人
 - Taichung City 臺中市政府青年諮詢委員
 - TCCSIU 臺中社會創新實驗基地進駐團隊入選
@@ -40,13 +37,12 @@ KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。�
 
 **聯絡方式**
 
-1. E-MAIL: kdchang.labs[at]gmail.com
+1. E-MAIL: kdchang.net[at]gmail.com
 2. Github: [https://github.com/kdchang](https://github.com/kdchang)
-3. Personal Site/Blog: [https://www.kdchang.net](https://www.kdchang.net)
-4. Tech Blog: [https://labs.kdchang.net](https://labs.kdchang.net)
+3. KD Labs: [https://www.kdchang.net](https://www.kdchang.net)
+4. Tech Blog: [https://tech.kdchang.net](https://tech.kdchang.net)
 5. Slides: [http://slides.com/kd-chang](http://slides.com/kd-chang)
 6. Slideshare: [http://www.slideshare.net/KaiDiChang/](http://www.slideshare.net/KaiDiChang/)
 7. Twitter: [https://twitter.com/kaidichang](https://twitter.com/kaidichang)
-
 
 <a href="https://www.flaticon.com/free-icons/design" title="design icons">Design icons created by Freepik - Flaticon</a>

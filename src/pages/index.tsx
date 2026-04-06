@@ -21,6 +21,9 @@ function HomepageHeader() {
           <Link className="button button--secondary button--lg" to="/blog">
             瀏覽最新文章
           </Link>
+          <Link className="button button--primary button--lg" to="/resources">
+            探索學習資源
+          </Link>
         </div>
       </div>
     </header>

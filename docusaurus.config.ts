@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "KD Tech Blog 技術部落格",
   tagline:
-    "從資深工程師到技術主管，分享軟體工程第一線開發、產品專案管理和技術領導心路歷程",
+    "從資深工程師到技術主管，分享軟體工程現場開發、產品專案管理和技術領導的心路歷程",
   favicon: "/img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -178,7 +178,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} KD Builder tech. Built with ❤️ in Taiwan.`,
+      copyright: `Copyright © ${new Date().getFullYear()} KD Tech Blog 技術部落格. Built with ❤️ in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,

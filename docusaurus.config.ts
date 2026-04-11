@@ -16,7 +16,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://tech.kdchang.net",
+  url: "https://tech.kdchang.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -90,7 +90,7 @@ const config: Config = {
   ],
   themeConfig: {
     // Replace with your project's social card
-    image: "https://tech.kdchang.net/img/logo.png",
+    image: "https://tech.kdchang.com/img/logo.png",
     // colorMode: {
     //   respectPrefersColorScheme: true,
     // },
@@ -160,7 +160,7 @@ const config: Config = {
             },
             {
               label: "Follow us on Facebook",
-              href: "https://www.facebook.com/tech.kdchang.net",
+              href: "https://www.facebook.com/tech.kdchang.com",
             },
             {
               label: "Follow us on Instagram",

@@ -1,7 +1,7 @@
 ---
 title: KD Tech Blog 產品打造實驗室 | KD Chang 張凱迪
 description: KD Tech Blog 產品打造實驗室：分享用 Builder 思維打造人們想用的產品。保持專注，整合 AI 工作流，持續迭代與改進！｜ Hi, 我是 KD Chang 張凱迪，我在這書寫我的軟體開發、程式設計和產品專案管理技術筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對軟體工程、Web 前後端程式設計、網頁開發、程式設計、產品專案管理、職涯發展和軟體開發的閱讀思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！
-image: https://tech.kdchang.net/img/logo.png
+image: https://tech.kdchang.com/img/logo.png
 ---
 
 <div class="about-profile-banner">
@@ -50,8 +50,8 @@ KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。�
 
 1. E-MAIL: kdchang.net[at]gmail.com
 2. Github: [https://github.com/kdchang](https://github.com/kdchang)
-3. KD Labs: [https://www.kdchang.net](https://www.kdchang.net)
-4. Tech Blog: [https://tech.kdchang.net](https://tech.kdchang.net)
+3. KD Labs: [https://www.kdchang.com](https://www.kdchang.com)
+4. Tech Blog: [https://tech.kdchang.com](https://tech.kdchang.com)
 5. Slides: [http://slides.com/kd-chang](http://slides.com/kd-chang)
 6. Slideshare: [http://www.slideshare.net/KaiDiChang/](http://www.slideshare.net/KaiDiChang/)
 7. Twitter: [https://twitter.com/kaidichang](https://twitter.com/kaidichang)

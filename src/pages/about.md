@@ -1,6 +1,6 @@
 ---
-title: KD Tech Blog 產品打造實驗室 | KD Chang 張凱迪
-description: KD Tech Blog 產品打造實驗室：分享用 Builder 思維打造人們想用的產品。保持專注，整合 AI 工作流，持續迭代與改進！｜ Hi, 我是 KD Chang 張凱迪，我在這書寫我的軟體開發、程式設計和產品專案管理技術筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對軟體工程、Web 前後端程式設計、網頁開發、程式設計、產品專案管理、職涯發展和軟體開發的閱讀思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！
+title: KD Tech Blog 技術部落格 | KD Chang 張凱迪
+description: KD Tech Blog 技術部落格：Hi, 我是 KD Chang 張凱迪，我在這書寫我的軟體開發、程式設計和產品專案管理技術筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對軟體工程、Web 前後端程式設計、EV 電動車軟體開發、AI Agent、產品專案管理、職涯發展和技術工程管理的閱讀思考與觀察，歡迎一起交流討論，讓這個世界更加開放美好！
 image: https://tech.kdchang.com/img/logo.png
 ---
 
@@ -8,15 +8,16 @@ image: https://tech.kdchang.com/img/logo.png
   <img class="about-avatar" src="/img/avatar.jpg" alt="KD Chang" />
   <div class="about-profile-info">
     <h1 class="about-name">KD Chang 張凱迪</h1>
-    <p class="about-tagline">文藝型開發者，站在科技與人文的交叉口<br/>Software Engineer · Product / Project Manager · Curator</p>
+    <p class="about-tagline">踏上人生的英雄旅程，不斷嘗試和進化，成為更好版本的自己<br/>Software Engineer · Product / Project Manager · Engineering Manager</p>
     <div class="about-badges">
-      <span class="about-badge">Full-Stack</span>
-      <span class="about-badge">AI / Data</span>
+      <span class="about-badge">Builder</span>
+      <span class="about-badge">Curator</span>
+      <span class="about-badge">Lifelong Learner</span>
     </div>
   </div>
 </div>
 
-KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。是一個軟體工程師，也是一位 PM 產品專案經理和教育工作者。曾服務過上市科技電子公司、台灣 AI 人工智慧新創獨角獸公司、全球前三大瀏覽器製造商與電子商務平台，也曾參與數個新創組織的創辦和嘗試過多個網路產品服務的開發。同時也是 [CoderBridge 開發者技術內容創作分享與職涯發展平台](https://www.facebook.com/CoderBridgeTW) 創辦人、[TechBridge Weekly 技術週刊](http://weekly.techbridge.cc/) 、React 入門教學書[《從零開始學 ReactJS》](https://www.gitbook.com/book/kdchang/react101/details)作者和 [HackNTU 臺大黑客松](https://github.com/HackNTU) 的創辦人。同時具備電腦科學與社會科學的背景知識，致力於整合科技與人文，讓這個世界更加開放美好。
+KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。是一個軟體工程師，也是一位 PM 產品專案經理和工程主管。曾服務過上市科技電子公司、台灣 AI 人工智慧新創獨角獸公司、全球前三大瀏覽器製造商與電子商務平台，也曾參與數個新創組織的創辦和嘗試過多個網路產品服務的開發。同時也是 [CoderBridge 開發者技術內容創作分享與職涯發展平台](https://www.facebook.com/CoderBridgeTW) 創辦人、[TechBridge Weekly 技術週刊](http://weekly.techbridge.cc/) 、React 入門教學書[《從零開始學 ReactJS》](https://www.gitbook.com/book/kdchang/react101/details)作者和 [HackNTU 臺大黑客松](https://github.com/HackNTU) 的創辦人。同時具備電腦科學與社會科學的背景知識，致力於整合科技與人文，讓這個世界更加開放美好。
 
 > @kdchang 文藝型開發者，站在科技與人文的交叉口。A Software Engineer, Product Manager/Project Manager & Curator.:)
 
@@ -34,7 +35,7 @@ KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。�
 - 國立台中一中（TCFSH）
 
 **Experience 經歷**
-- FOXTRON 鴻華先進車聯網架構組技術主管（Engineering Team Lead）
+- FOXTRON 鴻華先進車聯網架構組工程主管（Engineering Team Lead）
 - 鴻海科技集團資深軟體工程師（Senior Software Engineer）
 - 一零四資訊科技（104.com.tw）技術專案經理（Technical Project Manager, TPM）
 - MOXIATEK 墨俠科技軟體工程師 & 產品負責人
@@ -50,7 +51,7 @@ KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。�
 
 1. E-MAIL: kdchang.com[at]gmail.com
 2. Github: [https://github.com/kdchang](https://github.com/kdchang)
-3. KD Labs: [https://www.kdchang.com](https://www.kdchang.com)
+3. KD Lab: [https://www.kdchang.com](https://www.kdchang.com)
 4. Tech Blog: [https://tech.kdchang.com](https://tech.kdchang.com)
 5. Slides: [http://slides.com/kd-chang](http://slides.com/kd-chang)
 6. Slideshare: [http://www.slideshare.net/KaiDiChang/](http://www.slideshare.net/KaiDiChang/)

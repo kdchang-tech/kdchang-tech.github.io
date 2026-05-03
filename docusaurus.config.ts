@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "KD Tech Blog 技術部落格",
   tagline:
-    "從資深工程師到技術主管，分享軟體工程開發現場、產品專案管理和技術領導的心路歷程",
+    "從資深工程師到工程主管，分享軟體工程開發現場、產品專案管理和技術領導的心路歷程",
   favicon: "/img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -24,7 +24,7 @@ const config: Config = {
   deploymentBranch: "gh-pages",
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "kdchang-labs", // Usually your GitHub org/user name.
+  organizationName: "kdchang-tech", // Usually your GitHub org/user name.
   projectName: "kdchang-tech.github.io", // repo
   onBrokenLinks: "throw",
 
@@ -178,7 +178,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} KD Tech Blog 技術部落格. Built with ❤️ in Taiwan.`,
+      copyright: `Copyright © ${new Date().getFullYear()} KD Tech Blog 技術部落格. Built with ❤️ by <a href="https://www.kdchang.com">KD Chang</a> in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -178,7 +178,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} KD Tech Blog 技術部落格. Built with ❤️ by <a href="https://www.kdchang.com">KD Chang</a> in Taiwan.`,
+      copyright: `Copyright © ${new Date().getFullYear()} KD Tech Blog 技術部落格. Built with ❤️ by <a target="_blank" href="https://www.kdchang.com">KD Chang</a> in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,

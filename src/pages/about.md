@@ -42,7 +42,7 @@ KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。�
 - Taichung City 臺中市政府青年諮詢委員
 - TCCSIU 臺中社會創新實驗基地進駐團隊入選
 - Appier 沛星互動科技資深軟體工程師 & Scrum Master
-- Delta Electronics 台達電子軟體工程師
+- Delta Electronics 台達電軟體工程師
 - Mozilla Firefox 美商謀智實習工程師
 - TechBridge Weekly 技術週刊創辦人
 - HackNTU 臺大黑客松創辦人

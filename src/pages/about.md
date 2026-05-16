@@ -55,8 +55,9 @@ KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。�
 2. Github: [https://github.com/kdchang](https://github.com/kdchang)
 3. Personal Website: [https://www.kdchang.com](https://www.kdchang.com)
 4. Tech Blog: [https://tech.kdchang.com](https://tech.kdchang.com)
-5. Slides: [http://slides.com/kd-chang](http://slides.com/kd-chang)
-6. Slideshare: [http://www.slideshare.net/KaiDiChang/](http://www.slideshare.net/KaiDiChang/)
-7. Twitter: [https://twitter.com/kaidichang](https://twitter.com/kaidichang)
+5. KD LABs: [https://labs.kdchang.com](https://labs.kdchang.com)
+6. Slides: [http://slides.com/kd-chang](http://slides.com/kd-chang)
+7. Slideshare: [http://www.slideshare.net/KaiDiChang/](http://www.slideshare.net/KaiDiChang/)
+8. Twitter: [https://twitter.com/kaidichang](https://twitter.com/kaidichang)
 
 <a href="https://www.flaticon.com/free-icons/design" title="design icons">Design icons created by Freepik - Flaticon</a>
